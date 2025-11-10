@@ -21,8 +21,3 @@ function calculatormanger() {
   }
 }
 
-
-function peter() {
-  console.log('wekwepkwpe');
-  console.log("weber")
-}
